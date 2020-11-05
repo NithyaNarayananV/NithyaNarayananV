@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/nithya-narayanan-c-vr-0278661aa/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Ha Ha
+- ⚡ Fun fact: ...Ha Ha Ha
 -->
