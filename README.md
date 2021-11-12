@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/nithya-narayanan-c-vr-0278661aa/)
 - 😄 Pronouns: ...He/Him heee
 
--->
-
-
+ 
 Sunday GitHub day.
 Lets see how I follow.
+-->
