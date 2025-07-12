@@ -46,7 +46,6 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 **Tata Consultancy Services** | *Jan 2023 – Present*  
 **Client: Shell Trading & Supply** | *May 2023 – Present*
  -->
- Company - MNC
 **Salesforce Configuration Specialist** | *Nov 2024 – Present*
 - Automated system health checks using Apex, reducing manual effort and improving audit turnaround time.
 - Resolved high-priority production issues, ensuring platform reliability and data integrity.
