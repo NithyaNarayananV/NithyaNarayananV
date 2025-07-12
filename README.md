@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 ### Find me On:-
 
@@ -8,7 +8,7 @@
 
 - ### [Instagram](https://www.instagram.com/nithya.narayanan.v/)
 
-<!--
+
 **NithyaNarayananV/NithyaNarayananV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,8 +29,8 @@ Lets see how I follow.
 # C VR Nithya Narayanan
 **Salesforce Developer**
 
-📞 9445511404  
-📧 nithyanarayanancvr@gmail.com  
+ <!--📞 9445511404  
+📧 nithyanarayanancvr@gmail.com   --> 
 🔗 [LinkedIn](https://linkedin.com/in/nithya-narayanan-c-vr-0278661aa/)  
 🔗 [GitHub](https://github.com/NithyaNarayananV)
 
@@ -42,10 +42,11 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 ---
 
 ## 🧪 PROFESSIONAL EXPERIENCE
-
+<!--
 **Tata Consultancy Services** | *Jan 2023 – Present*  
 **Client: Shell Trading & Supply** | *May 2023 – Present*
-
+ -->
+ Company - MNC
 **Salesforce Configuration Specialist** | *Nov 2024 – Present*
 - Automated system health checks using Apex, reducing manual effort and improving audit turnaround time.
 - Resolved high-priority production issues, ensuring platform reliability and data integrity.
@@ -104,7 +105,8 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 ## 🎓 EDUCATION & CERTIFICATIONS
 
 **Bachelor of Engineering – Electricals and Electronics (85.3%)**  
-Rajalakshmi Institute of Technology, Chennai (2018–2022)
+
+<!--Rajalakshmi Institute of Technology, Chennai (2018–2022) -->
 
 **Certifications**
 - Salesforce Administrator  
@@ -114,5 +116,3 @@ Rajalakshmi Institute of Technology, Chennai (2018–2022)
 - Salesforce Agentforce Specialist
 
 ---
-
-Let me know if you want to reformat this for a specific template, add metrics (like time saved or efficiency improved), or tailor it to a job listing. I’d be thrilled to help sharpen it further ✨
