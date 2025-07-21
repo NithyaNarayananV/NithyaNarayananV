@@ -110,7 +110,7 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 **Certifications**
 - Salesforce Administrator  
 - Salesforce Platform Developer I  
-- Salesforce AI Associate  
+- Salesforce AI Associate  [Salesforce AI Associate](https://github.com/NithyaNarayananV/Certificates/blob/main/Salesforce/Salesforce%20AI%20Certificate.pdf)
 - Copado Fundamentals  
 - Salesforce Agentforce Specialist
 
