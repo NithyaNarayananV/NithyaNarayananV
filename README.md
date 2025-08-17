@@ -49,16 +49,16 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 **Salesforce Developer** | *Jan 2023 – Present*
 -  Translated business requirements into scalable Salesforce solutions through close collaboration with internal and external 
 stakeholders. 
-• Designed and developed Lightning Web Components (LWC) using wire adapters, input fields, data tables, navigation services, and 
+- Designed and developed Lightning Web Components (LWC) using wire adapters, input fields, data tables, navigation services, and 
 Lightning Message Service (LMS) for dynamic user interfaces. 
-• Built robust Apex Classes, Triggers, Batch Apex, and Future Methods to handle complex logic and bulk data processing. 
-• Performed Apex callouts and REST API integrations to enable seamless data exchange with external systems. 
-• Retrieved & manipulated data using SOQL queries, handling record types & ensuring optimized performance within governor limits. 
-• Achieved high test coverage across Apex components to ensure deployment readiness and long-term code stability. 
-• Managed user access through Permission Sets, Profiles, Roles, and Sharing Rules to ensure compliant data visibility. 
-• Practiced version control using GitHub workflows - feature branching, pull requests, conflict resolution, & production deployments. 
-• Utilized Salesforce Inspector, Workbench, and Data Loader for efficient bulk operations and data maintenance. 
-• Designed and deployed Apex-based automation for system health checks, reducing manual effort and enhancing audit efficiency
+- Built robust Apex Classes, Triggers, Batch Apex, and Future Methods to handle complex logic and bulk data processing. 
+- Performed Apex callouts and REST API integrations to enable seamless data exchange with external systems. 
+- Retrieved & manipulated data using SOQL queries, handling record types & ensuring optimized performance within governor limits. 
+- Achieved high test coverage across Apex components to ensure deployment readiness and long-term code stability. 
+- Managed user access through Permission Sets, Profiles, Roles, and Sharing Rules to ensure compliant data visibility. 
+- Practiced version control using GitHub workflows - feature branching, pull requests, conflict resolution, & production deployments. 
+- Utilized Salesforce Inspector, Workbench, and Data Loader for efficient bulk operations and data maintenance. 
+- Designed and deployed Apex-based automation for system health checks, reducing manual effort and enhancing audit efficiency
 
 ---
 
