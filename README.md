@@ -46,17 +46,19 @@ Proactive Salesforce Developer passionate about designing scalable, user-centric
 **Tata Consultancy Services** | *Jan 2023 – Present*  
 **Client: Shell Trading & Supply** | *May 2023 – Present*
  -->
-**Salesforce Configuration Specialist** | *Nov 2024 – Present*
-- Automated system health checks using Apex, reducing manual effort and improving audit turnaround time.
-- Resolved high-priority production issues, ensuring platform reliability and data integrity.
-- Delivered minor configuration updates and enhancements to support evolving business needs.
-- Collaborated on Git workflows: branching, pull requests, merge conflict resolution, and production deployments.
-
-**Salesforce Access Management Analyst** | *May 2023 – Oct 2024*
-- Managed user provisioning, role assignment, and bulk updates across complex org structures.
-- Maintained and configured metadata, permission sets, territories, queues, and profiles.
-- Used tools like Workbench, Data Loader, and Salesforce Inspector for efficient data ops.
-- Created ServiceNow dashboards for support metrics tracking and ticket management.
+**Salesforce Developer** | *Jan 2023 – Present*
+-  Translated business requirements into scalable Salesforce solutions through close collaboration with internal and external 
+stakeholders. 
+• Designed and developed Lightning Web Components (LWC) using wire adapters, input fields, data tables, navigation services, and 
+Lightning Message Service (LMS) for dynamic user interfaces. 
+• Built robust Apex Classes, Triggers, Batch Apex, and Future Methods to handle complex logic and bulk data processing. 
+• Performed Apex callouts and REST API integrations to enable seamless data exchange with external systems. 
+• Retrieved & manipulated data using SOQL queries, handling record types & ensuring optimized performance within governor limits. 
+• Achieved high test coverage across Apex components to ensure deployment readiness and long-term code stability. 
+• Managed user access through Permission Sets, Profiles, Roles, and Sharing Rules to ensure compliant data visibility. 
+• Practiced version control using GitHub workflows - feature branching, pull requests, conflict resolution, & production deployments. 
+• Utilized Salesforce Inspector, Workbench, and Data Loader for efficient bulk operations and data maintenance. 
+• Designed and deployed Apex-based automation for system health checks, reducing manual effort and enhancing audit efficiency
 
 ---
 
